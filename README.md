@@ -14,3 +14,4 @@ This project is a simple web page that showcases a Bootstrap carousel with high-
 
 ## Getting Started
 Clone the repository and open `index.html` in your preferred browser to view the page.
+Don't forget to keep the images and html file in the same folder
